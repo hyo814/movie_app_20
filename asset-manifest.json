@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/hyo814/movie_app_20/static/css/main.8e0b8644.chunk.css",
+    "main.js": "/hyo814/movie_app_20/static/js/main.6e526ea9.chunk.js",
+    "main.js.map": "/hyo814/movie_app_20/static/js/main.6e526ea9.chunk.js.map",
+    "runtime-main.js": "/hyo814/movie_app_20/static/js/runtime-main.7ddbf285.js",
+    "runtime-main.js.map": "/hyo814/movie_app_20/static/js/runtime-main.7ddbf285.js.map",
+    "static/js/2.0e90fb8e.chunk.js": "/hyo814/movie_app_20/static/js/2.0e90fb8e.chunk.js",
+    "static/js/2.0e90fb8e.chunk.js.map": "/hyo814/movie_app_20/static/js/2.0e90fb8e.chunk.js.map",
+    "index.html": "/hyo814/movie_app_20/index.html",
+    "precache-manifest.8e1456f51385c50c08effbb49c8aab7e.js": "/hyo814/movie_app_20/precache-manifest.8e1456f51385c50c08effbb49c8aab7e.js",
+    "service-worker.js": "/hyo814/movie_app_20/service-worker.js",
+    "static/css/main.8e0b8644.chunk.css.map": "/hyo814/movie_app_20/static/css/main.8e0b8644.chunk.css.map",
+    "static/js/2.0e90fb8e.chunk.js.LICENSE.txt": "/hyo814/movie_app_20/static/js/2.0e90fb8e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7ddbf285.js",
+    "static/js/2.0e90fb8e.chunk.js",
+    "static/css/main.8e0b8644.chunk.css",
+    "static/js/main.6e526ea9.chunk.js"
+  ]
+}
